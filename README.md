@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://app.daily.dev/mohammadnajh"><img src="https://api.daily.dev/devcards/2ad6c625e23e4f5a8ee3bd4dbdc056a4.png?r=2bo" width="400" alt="Ali's Dev Card"/></a>
+<a href="https://app.daily.dev/mohammadnajh"><img src="https://api.daily.dev/devcards/2ad6c625e23e4f5a8ee3bd4dbdc056a4.png?r=2bo" width="400" alt="Mohammed's Dev Card"/></a>
 <div align="center">
   <img src="https://profile-counter.glitch.me/Ali11Mustafa/count.svg?"  />
 </div>
@@ -8,8 +8,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Ali11Mustafa" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Ali11Mustafa" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Mohammad Najh" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=MohammedNajh" height="150" alt="languages graph"  />
 </div>
 
 ###
